@@ -10,3 +10,7 @@ background: linear-gradient(to left, #00223E, #FFA17F); /* W3C, IE 10+/ Edge, Fi
 
 height: 100vh;
 }
+
+.small-flag {
+    width: 50px;
+}
